@@ -353,7 +353,7 @@ ytd-feed-filter-chip-bar-renderer[frosted-glass-mode=with-chipbar] #chips-wrappe
 }
 
 #logo-icon {
-    background-image: none !important;
+    background-image: url("https://github.com/CtorW/Youtube/blob/main/Yt-Dracula-data/Drac%23logo.png?raw=true") !important;
     background-size: contain !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
