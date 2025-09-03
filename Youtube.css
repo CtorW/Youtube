@@ -357,8 +357,8 @@ ytd-feed-filter-chip-bar-renderer[frosted-glass-mode=with-chipbar] #chips-wrappe
     background-size: contain !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
-    width: 100% !important;
-    height: 100% !important;
+    width: 90px !important;
+    height: 30px !important;
 }
 
 #logo-icon svg {
